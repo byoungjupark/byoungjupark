@@ -14,3 +14,5 @@ Good at freediving, self-observation <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byoungjupark)](https://github.com/anuraghazra/github-readme-stats)
